@@ -1,6 +1,3 @@
 /target
-.gdb_history
 /afl/*/target
 /afl/*/out*
-mutants.out*
-coverage.xml
