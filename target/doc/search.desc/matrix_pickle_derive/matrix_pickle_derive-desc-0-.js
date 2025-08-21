@@ -1,0 +1,1 @@
+searchState.loadedDescShard("matrix_pickle_derive", 0, "Derive support for the <code>matrix-pickle</code> crate.\nDerive an <code>Decode</code> implementation for a struct or enum.\nDerive an <code>Encode</code> implementation for a struct or enum.")

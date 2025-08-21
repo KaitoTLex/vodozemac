@@ -1,0 +1,10 @@
+/home/kaitotlex/Source/Nix/vodozemac/target/debug/deps/libproc_macro_error2-5b7a33cf5053e21f.rmeta: /home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro-error2-2.0.1/src/lib.rs /home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro-error2-2.0.1/src/dummy.rs /home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro-error2-2.0.1/src/diagnostic.rs /home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro-error2-2.0.1/src/macros.rs /home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro-error2-2.0.1/src/sealed.rs /home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro-error2-2.0.1/src/imp/fallback.rs
+
+/home/kaitotlex/Source/Nix/vodozemac/target/debug/deps/proc_macro_error2-5b7a33cf5053e21f.d: /home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro-error2-2.0.1/src/lib.rs /home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro-error2-2.0.1/src/dummy.rs /home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro-error2-2.0.1/src/diagnostic.rs /home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro-error2-2.0.1/src/macros.rs /home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro-error2-2.0.1/src/sealed.rs /home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro-error2-2.0.1/src/imp/fallback.rs
+
+/home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro-error2-2.0.1/src/lib.rs:
+/home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro-error2-2.0.1/src/dummy.rs:
+/home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro-error2-2.0.1/src/diagnostic.rs:
+/home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro-error2-2.0.1/src/macros.rs:
+/home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro-error2-2.0.1/src/sealed.rs:
+/home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro-error2-2.0.1/src/imp/fallback.rs:

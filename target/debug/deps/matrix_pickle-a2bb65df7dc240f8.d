@@ -1,0 +1,11 @@
+/home/kaitotlex/Nix/vodozemac/target/debug/deps/matrix_pickle-a2bb65df7dc240f8.d: /home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matrix-pickle-0.2.1/src/lib.rs /home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matrix-pickle-0.2.1/src/decode.rs /home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matrix-pickle-0.2.1/src/encode.rs /home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matrix-pickle-0.2.1/src/error.rs /home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matrix-pickle-0.2.1/src/../README.md
+
+/home/kaitotlex/Nix/vodozemac/target/debug/deps/libmatrix_pickle-a2bb65df7dc240f8.rlib: /home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matrix-pickle-0.2.1/src/lib.rs /home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matrix-pickle-0.2.1/src/decode.rs /home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matrix-pickle-0.2.1/src/encode.rs /home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matrix-pickle-0.2.1/src/error.rs /home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matrix-pickle-0.2.1/src/../README.md
+
+/home/kaitotlex/Nix/vodozemac/target/debug/deps/libmatrix_pickle-a2bb65df7dc240f8.rmeta: /home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matrix-pickle-0.2.1/src/lib.rs /home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matrix-pickle-0.2.1/src/decode.rs /home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matrix-pickle-0.2.1/src/encode.rs /home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matrix-pickle-0.2.1/src/error.rs /home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matrix-pickle-0.2.1/src/../README.md
+
+/home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matrix-pickle-0.2.1/src/lib.rs:
+/home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matrix-pickle-0.2.1/src/decode.rs:
+/home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matrix-pickle-0.2.1/src/encode.rs:
+/home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matrix-pickle-0.2.1/src/error.rs:
+/home/kaitotlex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matrix-pickle-0.2.1/src/../README.md:
